@@ -22,3 +22,7 @@ PUT /usuarios/update/<id>           ==> PARA EL UPDATE SE DEBE COLOCAR EL ID DES
     "name": "poner nombre"
     "age": "INTEGER"
 }
+
+No estoy seguro del correcto funcionar del script.sql// Cree la tabla desde el PGadmin
+
+Disculpe la demora de la entrega
